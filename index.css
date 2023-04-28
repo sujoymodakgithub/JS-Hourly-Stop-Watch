@@ -1,0 +1,18 @@
+.timer {
+  font-size: 36px;
+}
+
+.button {
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 5px 15px;
+  border: none;
+}
+
+.bg-start-button {
+  background-color: #5cb85c;
+}
+
+.bg-stop-button {
+  background-color: #d9534f;
+}
